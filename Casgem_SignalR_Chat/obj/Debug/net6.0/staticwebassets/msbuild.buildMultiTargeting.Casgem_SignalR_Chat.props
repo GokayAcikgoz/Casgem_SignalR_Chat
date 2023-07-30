@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Casgem_SignalR_Chat.props" />
+</Project>

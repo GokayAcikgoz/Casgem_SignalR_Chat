@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Casgem_SignalR_Chat.props" />
+</Project>
